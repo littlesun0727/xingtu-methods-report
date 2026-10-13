@@ -1,0 +1,9 @@
+{
+  "result": "pass",
+  "browser": "Edge headless",
+  "embedded_images": 2357,
+  "android_samples": 9,
+  "magic_samples": 100,
+  "external_requests": 0,
+  "browser_errors": []
+}
